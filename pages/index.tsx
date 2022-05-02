@@ -64,7 +64,7 @@ export default function HomePage() {
             <Image mt={-8} src='./mappstore.png'></Image>
           </Flex>
           <Image
-            src="https://3000-abhid14-moneycompanion-7uc321mzspz.ws-us43.gitpod.io/coins.png"
+            src="./coins.png"
             maxHeight="250px"
           />
         </Flex>
