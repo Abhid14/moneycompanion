@@ -61,7 +61,7 @@ export default function HomePage() {
             </Button>
             <Text fontSize="2xl" fontWeight="bold">#SaveWithYelowMoneyCompanion</Text>
             <Text fontSize="2xl" fontWeight="bold">Available on:</Text>
-            <Image mt={-8} src='./mappstore.png'></Image>
+            <Image mt={-8} src='/mappstore.png'></Image>
           </Flex>
           <Image
             src="./coins.png"
